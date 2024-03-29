@@ -1,0 +1,6 @@
+framework module Pods_iExpense {
+  umbrella header "Pods-iExpense-umbrella.h"
+
+  export *
+  module * { export * }
+}

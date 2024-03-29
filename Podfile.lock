@@ -1,0 +1,16 @@
+PODS:
+  - ULID.swift (1.2.0)
+
+DEPENDENCIES:
+  - ULID.swift (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - ULID.swift
+
+SPEC CHECKSUMS:
+  ULID.swift: 7dddbacf51b74c60742d0ce49b81cb11491f803f
+
+PODFILE CHECKSUM: 58f2505fc6342fd0629906b0f07bbaec53522125
+
+COCOAPODS: 1.14.3
